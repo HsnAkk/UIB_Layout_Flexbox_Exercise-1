@@ -5,7 +5,7 @@ Single website about Flexbox
 ## Instructions
 
 - Add a title to the document
-- Use External CSS to style the document
+- Use External CSS to style the document.
 - Please just code what you see, neither less nor more.
 - It will be responsive and for mobile version breakpoint is 600px.
 
